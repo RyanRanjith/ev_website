@@ -6,7 +6,7 @@ import Hero from "./Components/Hero/Hero";
 
 const App = () => {
   let heroData = [
-    {text1:"Dive into",text2:"What you love"},
+    {text1:"Dive into",text2:"What you lov"},
     {text1:"Indulge",text2:"Your passions"},
     {text1:"Give in to",text2:"your passions"},
   ]
